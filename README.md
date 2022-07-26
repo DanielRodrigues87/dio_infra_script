@@ -1,0 +1,2 @@
+# Descrição do Desafio
+Script onde toda a infraestrutura de usuários, grupos de usuários, diretórios e permissões serão criadas automaticamente. 
